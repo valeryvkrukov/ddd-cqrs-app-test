@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Store\Domain\ValueObject;
+namespace App\Store\Domain\Model;
 
 use Psr\Log\InvalidArgumentException;
 

@@ -2,8 +2,8 @@
 
 namespace App\Tests\Store\ValueObject;
 
-use App\Store\Domain\ValueObject\Currency;
-use App\Store\Domain\ValueObject\Money;
+use App\Store\Domain\Model\Currency;
+use App\Store\Domain\Model\Money;
 use Symfony\Bundle\FrameworkBundle\Test\KernelTestCase;
 
 class MoneyTest extends KernelTestCase

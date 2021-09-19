@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Store\Domain\ValueObject;
+namespace App\Store\Domain\Model;
 
 use Money\Currencies\ISOCurrencies;
 use Money\Currency as IsoCurrency;
